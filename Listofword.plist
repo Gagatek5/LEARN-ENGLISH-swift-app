@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Eng</key>
+	<dict>
+		<key>Food</key>
+		<dict>
+			<key>Avilable</key>
+			<true/>
+			<key>Meat</key>
+			<dict>
+				<key>Meat</key>
+				<string>Mięso</string>
+				<key>Poultry</key>
+				<string>Drób</string>
+				<key>Turkey</key>
+				<string>Indyk</string>
+				<key>Chicken</key>
+				<string>Kurczak</string>
+				<key>Veal</key>
+				<string>Cielęcina</string>
+				<key>Mutton</key>
+				<string>Baranina</string>
+				<key>Venison</key>
+				<string>Sarnina</string>
+				<key>Pork</key>
+				<string>Wieprzowina</string>
+				<key>Beef</key>
+				<string>Wołowina</string>
+				<key>Lamb</key>
+				<string>Jagnięcina</string>
+			</dict>
+			<key>Fish</key>
+			<dict>
+				<key>Fish</key>
+				<string>ryba</string>
+				<key>Sea food</key>
+				<string>Owoce morza</string>
+				<key>Shrimps</key>
+				<string>Krewetki</string>
+				<key>Prawns</key>
+				<string>Krewetki</string>
+				<key>Mussels</key>
+				<string>Małże</string>
+				<key>Crayfish</key>
+				<string>Rak słodkowodny</string>
+				<key>Lobster</key>
+				<string>Homar</string>
+				<key>Crab</key>
+				<string>Krab</string>
+				<key>Tuna</key>
+				<string>Tuńczyk</string>
+				<key>Crap</key>
+				<string>Karp</string>
+				<key>Eel</key>
+				<string>Węgorz</string>
+				<key>Sardine</key>
+				<string>Sardynka</string>
+				<key>Salmon</key>
+				<string>Łosoś</string>
+				<key>Herring</key>
+				<string>Śledź</string>
+				<key>Cod</key>
+				<string>Dorsz</string>
+				<key>Trout</key>
+				<string>Pstrąg</string>
+				<key>Bass</key>
+				<string>Okoń</string>
+				<key>Flądra</key>
+				<string>Plaice</string>
+				<key>Pike</key>
+				<string>Szczupak</string>
+			</dict>
+			<key>Dairy</key>
+			<dict>
+				<key>Dairy</key>
+				<string>Nabiał</string>
+				<key>Dairy products</key>
+				<string>Produkty mleczne</string>
+				<key>Milk</key>
+				<string>Mleko</string>
+				<key>Cheese</key>
+				<string>Ser</string>
+				<key>Cheeses</key>
+				<string>Serki</string>
+				<key>Cottage cheese</key>
+				<string>Twaróg</string>
+				<key>Cream</key>
+				<string>Śmierana</string>
+				<key>Yoghurt</key>
+				<string>Jogurt</string>
+				<key>Butter</key>
+				<string>Masło</string>
+				<key>Margarine</key>
+				<string>Margaryna</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>

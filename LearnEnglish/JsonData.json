@@ -1,0 +1,1213 @@
+{
+    
+    "words": [{
+              "key": "cat",
+              "categories": ["animal", "cats", "mammal", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Cat"
+              },
+              "PL": {
+              "word": "Kot"
+              }
+              }
+              }, {
+              "key": "dog",
+              "categories": ["animal", "mammal", "dogs", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Dog"
+              },
+              "PL": {
+              "word": "Pies"
+              }
+              
+              }
+              }, {
+              "key": "viper",
+              "categories": ["animal", "snake", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Viper"
+              },
+              "PL": {
+              "word": "Żmija"
+              }
+              
+              }
+              }, {
+              "key": "alligator",
+              "categories": ["animal", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Alligator"
+              },
+              "PL": {
+              "word": "Aligator"
+              }
+              
+              }
+              }, {
+              "key": "animal",
+              "categories": ["animal", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Animal"
+              },
+              "PL": {
+              "word": "Zwierzęta"
+              }
+              
+              }
+              }, {
+              "key": "ant",
+              "categories": ["animal", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Ant"
+              },
+              "PL": {
+              "word": "Mrówka"
+              }
+              
+              }
+              }, {
+              "key": "owl",
+              "categories": ["animal", "noun", "birds", "all"],
+              "translations": {
+              "EN": {
+              "word": "Owl"
+              },
+              "PL": {
+              "word": "Sowa"
+              }
+              
+              }
+              }, {
+              "key": "bear",
+              "categories": ["animal", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Bear"
+              },
+              "PL": {
+              "word": "Niedźwiedź"
+              }
+              
+              }
+              }, {
+              "key": "bee",
+              "categories": ["animal", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Bee"
+              },
+              "PL": {
+              "word": "Pszczoła"
+              }
+              
+              }
+              }, {
+              "key": "bird",
+              "categories": ["animal", "noun", "birds", "all"],
+              "translations": {
+              "EN": {
+              "word": "Bird"
+              },
+              "PL": {
+              "word": "Ptak"
+              }
+              
+              }
+              }, {
+              "key": "bull",
+              "categories": ["animal", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Bull"
+              },
+              "PL": {
+              "word": "Byk"
+              }
+              
+              }
+              }, {
+              "key": "buck",
+              "categories": ["animal", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Buck"
+              },
+              "PL": {
+              "word": "Kozioł"
+              }
+              
+              }
+              }, {
+              "key": "animal",
+              "categories": ["animal", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Animal"
+              },
+              "PL": {
+              "word": "Zwierzęta"
+              }
+              
+              }
+              }, {
+              "key": "Officer worker",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Oficcer worker"
+              },
+              "PL": {
+              "word": "Pracownik umysłowy"
+              }
+              
+              }
+              }, {
+              "key": "Phisical worker",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Phisical worker"
+              },
+              "PL": {
+              "word": "Pracownik fizyczny"
+              }
+              
+              }
+              }, {
+              "key": "Architect",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Architect"
+              },
+              "PL": {
+              "word": "Architekt"
+              }
+              
+              }
+              }, {
+              "key": "Artist",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Artist"
+              },
+              "PL": {
+              "word": "Artysta"
+              }
+              
+              }
+              }, {
+              "key": "Musician",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Musician"
+              },
+              "PL": {
+              "word": "Muzyk"
+              }
+              
+              }
+              }, {
+              "key": "Teacher",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Teacher"
+              },
+              "PL": {
+              "word": "Nauczyciel"
+              }
+              
+              }
+              }, {
+              "key": "Gardener",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Gardener"
+              },
+              "PL": {
+              "word": "Ogrodnik"
+              }
+              
+              }
+              }, {
+              "key": "Bartender",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Bartender"
+              },
+              "PL": {
+              "word": "Barman"
+              }
+              
+              }
+              }, {
+              "key": "Biologist",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Biologist"
+              },
+              "PL": {
+              "word": "Biolog"
+              }
+              
+              }
+              }, {
+              "key": "Chemist",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Chemist"
+              },
+              "PL": {
+              "word": "Chemik"
+              }
+              
+              }
+              }, {
+              "key": "Economist",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Economist"
+              },
+              "PL": {
+              "word": "Ekonomista"
+              }
+              
+              }
+              }, {
+              "key": "Waiter",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Waiter"
+              },
+              "PL": {
+              "word": "Kelner"
+              }
+              
+              }
+              }, {
+              "key": "Driver",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Draiver"
+              },
+              "PL": {
+              "word": "Kierowca"
+              }
+              
+              }
+              }, {
+              "key": "Taxi driver",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Taxi driver"
+              },
+              "PL": {
+              "word": "Taksówkasz"
+              }
+              
+              }
+              }, {
+              "key": "Engineer",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Engineer"
+              },
+              "PL": {
+              "word": "Inżinier"
+              }
+              
+              }
+              }, {
+              "key": "Railway employee",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Railway employee"
+              },
+              "PL": {
+              "word": "Kolejarz"
+              }
+              
+              }
+              }, {
+              "key": "Conservator",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Conservator"
+              },
+              "PL": {
+              "word": "Konserwator"
+              }
+              
+              }
+              }, {
+              "key": "Dressmarker",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Dressmarker"
+              },
+              "PL": {
+              "word": "Krawiec/Krawcowa"
+              }
+              
+              }
+              }, {
+              "key": "chef",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Chef"
+              },
+              "PL": {
+              "word": "Kucharz/Kucharka"
+              }
+              
+              }
+              }, {
+              "key": "Doctor",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Doctor"
+              },
+              "PL": {
+              "word": "Doktor"
+              }
+              
+              }
+              }, {
+              "key": "Medic",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Medic"
+              },
+              "PL": {
+              "word": "Lekarz"
+              }
+              
+              }
+              }, {
+              "key": "Tour guide",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Tour guide"
+              },
+              "PL": {
+              "word": "Przewodnik"
+              }
+              
+              }
+              }, {
+              "key": "Interior designer",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Interior designer"
+              },
+              "PL": {
+              "word": "Dekorator wnętrz"
+              }
+              
+              }
+              }, {
+              "key": "Farm worker",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Farm worker"
+              },
+              "PL": {
+              "word": "Farmer/Rolnik"
+              }
+              
+              }
+              }, {
+              "key": "Lifeguard",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Lifeguard"
+              },
+              "PL": {
+              "word": "Ratownik"
+              }
+              
+              }
+              }, {
+              "key": "Hotel receptionist",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Hotel receptionist"
+              },
+              "PL": {
+              "word": "Recepcjonista"
+              }
+              
+              }
+              }, {
+              "key": "Hardware/Software engineer",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Hardware/Spftware engineer"
+              },
+              "PL": {
+              "word": "Informatyk"
+              }
+              
+              }
+              }, {
+              "key": "Skiing instructor",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Skiing instructor"
+              },
+              "PL": {
+              "word": "Instruktor narciarstwa"
+              }
+              
+              }
+              }, {
+              "key": "Diving instructor",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Diving instructor"
+              },
+              "PL": {
+              "word": "Instruktor nurkowania"
+              }
+              
+              }
+              }, {
+              "key": "Swimming instructor",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Swimming instructor"
+              },
+              "PL": {
+              "word": "Instruktor pływania"
+              }
+              
+              }
+              }, {
+              "key": "Tennis instructor",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Tennis instructor"
+              },
+              "PL": {
+              "word": "Instruktor tenisa"
+              }
+              
+              }
+              }, {
+              "key": "Windsurfing instructor",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Windsurfing instructor"
+              },
+              "PL": {
+              "word": "Instruktor windserfingu"
+              }
+              
+              }
+              }, {
+              "key": "Fitness instruktor",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Fitness instruktor"
+              },
+              "PL": {
+              "word": "Instruktor sprawnosci fizycznej"
+              }
+              
+              }
+              }, {
+              "key": "Cashier",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Cashier"
+              },
+              "PL": {
+              "word": "Kasjer"
+              }
+              
+              }
+              }, {
+              "key": "Cook",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Cook"
+              },
+              "PL": {
+              "word": "Kucharz"
+              }
+              
+              }
+              }, {
+              "key": "Surgeon",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Surgeon"
+              },
+              "PL": {
+              "word": "Chirurg"
+              }
+              
+              }
+              },
+              
+              {
+              "key": "Vet",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Vet"
+              },
+              "PL": {
+              "word": "Weterynarz"
+              }
+              
+              }
+              }, {
+              "key": "Lawyer",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Lawyer"
+              },
+              "PL": {
+              "word": "Prawnik"
+              }
+              
+              }
+              }, {
+              "key": "Judge",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Judge"
+              },
+              "PL": {
+              "word": "Sędzia/Sędzina"
+              }
+              
+              }
+              }, {
+              "key": "Accountant",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Accountant"
+              },
+              "PL": {
+              "word": "Kięgowy/a"
+              }
+              
+              }
+              }, {
+              "key": "Sowtware developer",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Sowtware developer"
+              },
+              "PL": {
+              "word": "Programista"
+              }
+              
+              }
+              }, {
+              "key": "Real estate agent",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Real estate agent"
+              },
+              "PL": {
+              "word": "Handlarz nieruchomościami"
+              }
+              
+              }
+              }, {
+              "key": "Journalist",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Journalist"
+              },
+              "PL": {
+              "word": "Dziennikarz"
+              }
+              
+              }
+              }, {
+              "key": "Librarian",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Librarian"
+              },
+              "PL": {
+              "word": "Pracownik bibliteki"
+              }
+              
+              }
+              }, {
+              "key": "Manicurist",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Manicurist"
+              },
+              "PL": {
+              "word": "Manikjurzystka"
+              }
+              
+              }
+              }, {
+              "key": "Masseuse",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Masseuse"
+              },
+              "PL": {
+              "word": "Masażystka"
+              }
+              
+              }
+              }, {
+              "key": "Beautician",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Beautician"
+              },
+              "PL": {
+              "word": "Kosmetyczka"
+              }
+              
+              }
+              }, {
+              "key": "Hairdresser",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Hairdresser"
+              },
+              "PL": {
+              "word": "Fryzjer żeński"
+              }
+              
+              }
+              }, {
+              "key": "Nurse",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Nurse"
+              },
+              "PL": {
+              "word": "Pielęgniarka"
+              }
+              
+              }
+              }, {
+              "key": "Nun",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Nun"
+              },
+              "PL": {
+              "word": "Siostra zakonna"
+              }
+              
+              }
+              }, {
+              "key": "Baby sitter",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Baby sitter"
+              },
+              "PL": {
+              "word": "Opiekunka do dziecka"
+              }
+              
+              }
+              }, {
+              "key": "Nursery school teacher",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Nursery school teacher"
+              },
+              "PL": {
+              "word": "Przedszkolanka"
+              }
+              
+              }
+              }, {
+              "key": "Secretary",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Secretary"
+              },
+              "PL": {
+              "word": "Sekretarka"
+              }
+              
+              }
+              }, {
+              "key": "Policewoman",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Policewoman"
+              },
+              "PL": {
+              "word": "Policjantka"
+              }
+              
+              }
+              }, {
+              "key": "Businesswoman",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Businesswoman"
+              },
+              "PL": {
+              "word": "Kobieta biznesu"
+              }
+              
+              }
+              }, {
+              "key": "Flight attendant",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Flight attendant"
+              },
+              "PL": {
+              "word": "Stewardesa"
+              }
+              
+              }
+              }, {
+              "key": "Craftsman",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Craftsman"
+              },
+              "PL": {
+              "word": "Rzemieślnik"
+              }
+              
+              }
+              }, {
+              "key": "Repairer",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Repairer"
+              },
+              "PL": {
+              "word": "Serwisant"
+              }
+              
+              }
+              }, {
+              "key": "Car mechanic",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Car mechanic"
+              },
+              "PL": {
+              "word": "Mechanik samochodowy"
+              }
+              
+              }
+              }, {
+              "key": "Decorator",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Decorator"
+              },
+              "PL": {
+              "word": "Malarz wnętrz"
+              }
+              
+              }
+              }, {
+              "key": "Varnisher ",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "varnisher"
+              },
+              "PL": {
+              "word": "Lakiernik"
+              }
+              
+              }
+              }, {
+              "key": "Floorer",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Floorer"
+              },
+              "PL": {
+              "word": "Posadzkarz"
+              }
+              
+              }
+              }, {
+              "key": "Bricklayer",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Bricklayer"
+              },
+              "PL": {
+              "word": "Murarz"
+              }
+              
+              }
+              }, {
+              "key": "Tinman",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Tinman"
+              },
+              "PL": {
+              "word": "Blacharz"
+              }
+              
+              }
+              }, {
+              "key": "Paver",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Paver"
+              },
+              "PL": {
+              "word": "Brukarz"
+              }
+              
+              }
+              }, {
+              "key": "Wood-worker",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Wood-worker"
+              },
+              "PL": {
+              "word": "Cieśla"
+              }
+              
+              }
+              }, {
+              "key": "Carpenter",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Carpenter"
+              },
+              "PL": {
+              "word": "Stolarz"
+              }
+              
+              }
+              }, {
+              "key": "Barber",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Barker"
+              },
+              "PL": {
+              "word": "Fryzjer męski"
+              }
+              
+              }
+              }, {
+              "key": "Shoemaker",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Shoemaker"
+              },
+              "PL": {
+              "word": "Szewc"
+              }
+              
+              }
+              }, {
+              "key": "Glazier",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Glazier"
+              },
+              "PL": {
+              "word": "Szklarz"
+              }
+              
+              }
+              }, {
+              "key": "Locksmith",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Locksmith"
+              },
+              "PL": {
+              "word": "Ślusarz"
+              }
+              
+              }
+              }, {
+              "key": "Upholosterer",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Upholosterer"
+              },
+              "PL": {
+              "word": "Tapicer"
+              }
+              
+              }
+              }, {
+              "key": "Techician",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Techician"
+              },
+              "PL": {
+              "word": "Technik"
+              }
+              
+              }
+              },
+              
+              {
+              "key": "Turner",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Turner"
+              },
+              "PL": {
+              "word": "Tokarz"
+              }
+              
+              }
+              }, {
+              "key": "Plasterer",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Plasterer"
+              },
+              "PL": {
+              "word": "Tynkasz"
+              }
+              
+              }
+              }, {
+              "key": "Roofer",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Roofer"
+              },
+              "PL": {
+              "word": "Dekarz"
+              }
+              
+              }
+              }, {
+              "key": "Tiler",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Tiler"
+              },
+              "PL": {
+              "word": "Kafelkarz"
+              }
+              
+              }
+              },
+              
+              {
+              "key": "Welder",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Welder"
+              },
+              "PL": {
+              "word": "Spawacz"
+              }
+              
+              }
+              }, {
+              "key": "Driver",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Driver"
+              },
+              "PL": {
+              "word": "Nurek"
+              }
+              
+              }
+              }, {
+              "key": "Miner",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Miner"
+              },
+              "PL": {
+              "word": "Górnik"
+              }
+              
+              }
+              }, {
+              "key": "Plumber",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Plumber"
+              },
+              "PL": {
+              "word": "Hydraulik"
+              }
+              
+              }
+              }, {
+              "key": "Tailor",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Tailor"
+              },
+              "PL": {
+              "word": "Krawiec"
+              }
+              
+              }
+              }, {
+              "key": "Steersman",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Steersman"
+              },
+              "PL": {
+              "word": "Sternik"
+              }
+              
+              }
+              }, {
+              "key": "Woodman",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Woodman"
+              },
+              "PL": {
+              "word": "Leśnik"
+              }
+              
+              }
+              }, {
+              "key": "Male nurse",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Male nurse"
+              },
+              "PL": {
+              "word": "Pielęgniarz"
+              }
+              
+              }
+              }, {
+              "key": "Priest",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Priest"
+              },
+              "PL": {
+              "word": "Ksiądz"
+              }
+              
+              }
+              }, {
+              "key": "Conductor",
+              "categories": ["work", "noun", "all"],
+              "translations": {
+              "EN": {
+              "word": "Conductor"
+              },
+              "PL": {
+              "word": "Dyrygent"
+              }
+              
+              }
+              }
+              
+              
+              ],
+    "available": false
+}

@@ -1,0 +1,24 @@
+{
+    
+    "words": [
+        {
+              "key":"chicken",
+              "categories":["meat", "birds", "animal"],
+              "translations":{
+                "EN":{"word":"Chicken"},
+                "PL":{"word":"Kurczak"}
+              }
+        },
+        {
+              "key":"turkey",
+              "categories":["meat", "birds", "animal"],
+              "translations":{
+                "EN":{"word":"Turkey"},
+                "PL":{"word":"Indyk"}
+              }
+        }
+
+              
+    ],
+    "available": true
+}

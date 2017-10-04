@@ -1,0 +1,55 @@
+/*
+ {
+    
+    "Eng": [{
+        "Food": [{
+            "Avilable": true,
+            "Meat": [{
+                "Meat": "Mięso",
+                "Poultry": "Drób",
+                "Turkey": "Indyk",
+                "Chicken": "Kurczak",
+                "Veal": "Cięcina",
+                "Mutton": "Baranina",
+                "Venison": "Sarnina",
+                "Pork": "Wieprzowina",
+                "Beef": "Wołowina",
+                "Lamb": "Jagnięcina"
+            }],
+            "Fish": [{
+                "Fish": "ryba",
+                "Sea food": "Owoce morza",
+                "Shrimps": "Krewetki",
+                "Prawns": "Krewetki",
+                "Mussels": "Małże",
+                "Crayfish": "Rak słodkowodny",
+                "Lobster": "Homar",
+                "Crab": "Krab",
+                "Tuna": "Tuńczyk",
+                "Crap": "Karp",
+                "Eel": "W\u0119gorz",
+                "Sardine": "Sardynka",
+                "Salmon": "\u0141oso\u015b",
+                "Herring": "\u015aled\u017a",
+                "Cod": "Dorsz",
+                "Trout": "Pstr\u0105g",
+                "Bass": "Oko\u0144",
+                "Fl\u0105dra": "Plaice",
+                "Pike": "Szczupak"
+            }],
+            "Dairy": [{
+                "Dairy": "Nabia\u0142",
+                "Dairy products": "Produkty mleczne",
+                "Milk": "Mleko",
+                "Cheese": "Ser",
+                "Cheeses": "Serki",
+                "Cottage cheese": "Twar\u00f3g",
+                "Cream": "\u015amierana",
+                "Yoghurt": "Jogurt",
+                "Butter": "Mas\u0142o",
+                "Margarine": "Margaryna"
+            }]
+        }]
+    }]
+}
+ */
