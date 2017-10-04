@@ -22,6 +22,7 @@ class WriteTestViewController: UIViewController {
     var answerTF = [String]()
     var valueFullList = [String]()
     var keyFullList = [String]()
+    var words = [String]()
     override func viewDidLoad() {
         super.viewDidLoad()
         
@@ -44,13 +45,15 @@ class WriteTestViewController: UIViewController {
                 {
                     print("ok")
                     score += 1
-                    answer.append(value[currnetWord] + " " + key[currnetWord])
+                    answer.append(answerTextBox.text!)
+                    words.append(value[currnetWord])
                     answerTF.append("t")
                 }
             else
                 {
                     print("Wrong")
-                    answer.append(value[currnetWord] +  " Your Answer: " + answerTextBox.text!)
+                    answer.append(answerTextBox.text!)
+                    words.append(value[currnetWord])
                     answerTF.append("f")
                 }
             if currnetWord == value.count - 1
@@ -71,13 +74,15 @@ class WriteTestViewController: UIViewController {
             {
                 print("ok")
                 score += 1
-                answer.append(key[currnetWord] + " " + value[currnetWord])
+                answer.append(answerTextBox.text!)
+                words.append(key[currnetWord])
                 answerTF.append("t")
             }
             else
             {
                 print("Wrong")
-                answer.append(key[currnetWord] +  " Your Answer: " + answerTextBox.text!)
+                answer.append(answerTextBox.text!)
+                words.append(key[currnetWord])
                 answerTF.append("f")
             }
             if currnetWord == value.count - 1
@@ -103,6 +108,12 @@ class WriteTestViewController: UIViewController {
         ScoreView.scoreLabel = (scoreText + "/" + maxScore)
         ScoreView.answer = answer
         ScoreView.answerTF = answerTF
+        ScoreView.value = value
+        ScoreView.key = key
+        ScoreView.valueFullList = valueFullList
+        ScoreView.keyFullList = keyFullList
+        ScoreView.words = words
+        ScoreView.carrentTask = currentTask
     }
 
     func checkAnswer()  {

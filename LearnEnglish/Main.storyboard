@@ -797,7 +797,7 @@
                                 <state key="normal" title="Reapet"/>
                                 <connections>
                                     <action selector="Reapet:" destination="6Re-NT-WTe" eventType="touchUpInside" id="8Ng-0E-RU0"/>
-                                    <segue destination="ppH-5q-9ES" kind="show" id="uFo-3H-6fT"/>
+                                    <action selector="ReapetBadAnswer:" destination="6Re-NT-WTe" eventType="touchUpInside" id="ndb-T8-lTc"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -806,6 +806,8 @@
                     <connections>
                         <outlet property="ReapetButton" destination="Le3-en-akf" id="M1U-Zm-TCu"/>
                         <outlet property="Score" destination="ClE-a7-EAV" id="CqA-o6-GuQ"/>
+                        <segue destination="9K9-Eb-LMT" kind="show" identifier="Write" id="4jW-Fm-E29"/>
+                        <segue destination="ppH-5q-9ES" kind="show" identifier="Choose" id="fmt-ws-bhy"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="evJ-GZ-RKx" userLabel="First Responder" sceneMemberID="firstResponder"/>
@@ -815,10 +817,10 @@
     </scenes>
     <inferredMetricsTieBreakers>
         <segue reference="N64-nU-ITu"/>
-        <segue reference="4BG-rH-tJt"/>
+        <segue reference="4jW-Fm-E29"/>
         <segue reference="iSr-z5-1WU"/>
         <segue reference="aWv-h3-dOU"/>
-        <segue reference="cSL-qX-TOX"/>
+        <segue reference="qwn-8o-Wq3"/>
         <segue reference="V7Q-Qu-2AT"/>
         <segue reference="eru-I1-DKv"/>
     </inferredMetricsTieBreakers>

@@ -47,12 +47,16 @@ class ScoreViewController: UIViewController, UITableViewDelegate, UITableViewDat
     
     public func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell
     {
-       
+       var countRemover = 0
         let cell = UITableViewCell(style: .default, reuseIdentifier: "userCell")
         cell.textLabel?.text = ("\(words[indexPath.row])   Your Answer:   \(answer[indexPath.row])" )
         if answerTF[indexPath.row] == "t" {
             
             cell.backgroundColor = UIColor.green
+            var remove = indexPath.row - countRemover
+            value.remove(at: remove)
+            key.remove(at: remove)
+            countRemover += countRemover
         }
         else
         {
@@ -83,23 +87,54 @@ class ScoreViewController: UIViewController, UITableViewDelegate, UITableViewDat
         }
         
     }
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+    @IBAction func ReapetBadAnswer(_ sender: Any) {
+        if(carrentTask == 0 || carrentTask == 1 ){
+        self.performSegue(withIdentifier:"Choose", sender: self)
+        } else if (carrentTask == 2 || carrentTask == 3 ){
+            self.performSegue(withIdentifier:"Write", sender: self)
+        }
+    }
+     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        if (segue.identifier == "Choose") {
             let learnView :ViewController = segue.destination as! ViewController
             learnView.selectTable = carrentTask
             learnView.keyFullList = keyFullList
             learnView.valueFullList = valueFullList
-        if(carrentTask == 0)
-        {
-
-            learnView.key = reapetWrongAnswer
-            learnView.value = value
-        }else
-        {
-            learnView.key = key
-            learnView.value = reapetWrongAnswer
-
+            if(carrentTask == 0 || carrentTask == 3)
+            {
+                
+                learnView.key = reapetWrongAnswer
+                learnView.value = value
+            }else
+            {
+                learnView.key = key
+                learnView.value = reapetWrongAnswer
+                
+            }
+            
+            
+        }
+        else if segue.identifier == "Write" {
+            
+            let writeView: WriteTestViewController = segue.destination as! WriteTestViewController
+            writeView.currentTask = carrentTask
+            writeView.keyFullList = keyFullList
+            writeView.valueFullList = valueFullList
+            if(carrentTask == 0 || carrentTask == 3)
+            {
+                
+                writeView.key = reapetWrongAnswer
+                writeView.value = value
+            }else
+            {
+                writeView.key = key
+                writeView.value = reapetWrongAnswer
+                
+            }
         }
     }
+
+}
     /*
     // MARK: - Navigation
 
@@ -110,4 +145,4 @@ class ScoreViewController: UIViewController, UITableViewDelegate, UITableViewDat
     }
     */
 
-}
+
